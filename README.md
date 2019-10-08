@@ -7,3 +7,5 @@ Places to look to find datasets. Submit a Pull Request if you have other suggest
 - Data.gov - https://www.data.gov/ - A rich catalog of datasets and APIs on many topics from the US Goverment
 - Mockaroo - https://www.mockaroo.com/ - Tool for generating test datasets
 - EU Open Data Portal - https://data.europa.eu/euodp/en/home
+- Open Data Government of Canada https://open.canada.ca/en/open-data
+- Google dataset search https://toolbox.google.com/datasetsearch
